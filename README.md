@@ -1,5 +1,6 @@
-# COVID-19 Info Extraction API
+# COVID-19 Info Extraction DashBoard
 Hosts a Jakarta REST API and logs data and metadata to Mongo DB
+Also contains a dashboard that fetches the DB data and dispalys it to https://akshaysicmu.herokuapp.com/
 
 ## Installation
     1. Clone master
