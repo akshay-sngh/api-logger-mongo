@@ -1,0 +1,9 @@
+edu\cmu\akshaysi\project4task0service\LocationsWouldAttend.class
+edu\cmu\akshaysi\project4task0service\CovidInfoExtractor.class
+edu\cmu\akshaysi\project4task0service\model\QuickStart.class
+edu\cmu\akshaysi\project4task0service\Utils.class
+edu\cmu\akshaysi\project4task0service\rest\Result.class
+edu\cmu\akshaysi\project4task0service\SurveyResult.class
+edu\cmu\akshaysi\project4task0service\Location.class
+edu\cmu\akshaysi\project4task0service\CovidInfoApplication.class
+edu\cmu\akshaysi\project4task0service\CovidInfoResource.class
